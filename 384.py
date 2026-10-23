@@ -1,0 +1,8 @@
+c = input()
+print(c+" "*5+c)
+print(c+" "*5+c)
+print(c*2+" "*3+c*2)
+print(c+" "+c+" "+c+" "+c)
+print(c+"  "+c+"  "+c)
+print(c+" "*5+c)
+print(c+" "*5+c)
